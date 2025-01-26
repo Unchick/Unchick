@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Unchick/Unchick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Fedor
 
-Here are some ideas to get you started:
+I'm a passionate IT student with a keen interest in PC hardware, overclocking, coding and game developement. I love exploring new technologies and working on projects that challenge my skills. I am currently stuying for bachelors degree in Informatics and Computing systems at Moscow Aviation Institute.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python
+- C++
+- Unity and C#
+
+## 💼 Projects
+Here are a few projects I've worked on:
+- TBA Unity indie horror with sea critters
+- Home media server to manage own files and archive youtube videos
+
+
+## ⚡ Fun Fact
+I achieved a world record in overclocking my config. It is available on 3dmark website in categoty of 13600kf + rtx 3080 systems. I'm really proud of my ddr4 RAM setup and configuration, it even outperforms high end ddr5.
+
+Thanks for visiting my profile! 😊
+
